@@ -69,16 +69,13 @@ a modern WordPress stack that helps you get started with the best development to
     * `WP_ENV` - Set to environment (`development` - keep this, `staging`, `production`),
     * `WP_HOME` - Full URL to WordPress home (`http://otravo.exercise` - pick anything you want),
     * `REDIS_HOST` - hostname for `redis` service (`redis` - no need to change if using Docker-Compose),
-    * Docker variables - lets to connect from local machine if using Docker-Compose:
-        * `DOCKER_NGINX_IP` - pick any suitable IP address to hook web application (`111.111.111.111`),
-        * `DOCKER_SUBNET` - this should allow the IP above (`111.111.111.0/24`),
     * `AUTH_KEY`, `SECURE_AUTH_KEY`, `LOGGED_IN_KEY`, `NONCE_KEY`, `AUTH_SALT`, `SECURE_AUTH_SALT`, `LOGGED_IN_SALT`, `NONCE_SALT`
         * Generate with [our WordPress salts generator](https://roots.io/salts.html) - recommended, as no additional tools are needed.
         * Generate with [wp-cli-dotenv-command](https://github.com/aaemnnosttv/wp-cli-dotenv-command).
 1. Launch the application.
     * **Method 1 (recommended):**
-        - execute `docker-compose up -d` in project root directory,
-        - add `111.111.111.111 otravo.exercise` to your local **hosts** file, like **/etc/hosts**.
+        - add `127.0.0.1 otravo.exercise` to your local **hosts** file, like **/etc/hosts**,
+        - execute `docker-compose up -d` in project root directory.
     * **Method 2:** set the document root on your webserver to Bedrock's `web` folder: `/path/to/site/web/` and restart the server.
 1. Access WordPress admin at `http://otravo.exercise/wp/wp-admin/` (depends on chosen `WP_HOME` value).
 1. Create user and install WordPress.
