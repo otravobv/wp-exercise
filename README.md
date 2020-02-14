@@ -2,10 +2,10 @@
 
 ## Task description
 
-Create a REST API endpoint to receive list of airports within same city (same city IATA code) in JSON format.
+Create a REST API endpoint which will return a list of airports for specified IATA city code.
 You may try to reuse [WordPress REST API](https://developer.wordpress.org/rest-api/) or create your own.
 
-When calling an url like `http://otravo.exercise/api/airports/LON` it should return content with a such structure:
+So when calling an url like `http://otravo.exercise/api/airports/LON` it should return content with a such structure (where LON is cityCode):
 ```json
 [
     {
@@ -33,7 +33,7 @@ Store **locations** in a custom database table:
 
 Table structure can be provided as a separate SQL file or handled with migrations functionality.
 
-Implement a simple way (url endpoint, cronjob, etc) to update this custom table.
+Implement a simple way (url endpoint or cronjob or something else) to update this custom table.
 Use [data/airports.json](data/airports.json) file as a source.
 
 You are allowed to include and use external libraries.
@@ -82,3 +82,8 @@ a modern WordPress stack that helps you get started with the best development to
     * **Method 2:** set the document root on your webserver to Bedrock's `web` folder: `/path/to/site/web/` and restart the server.
 1. Access WordPress admin at `http://otravo.exercise/wp/wp-admin/` (depends on chosen `WP_HOME` value).
 1. Create user and install WordPress.
+
+
+## Delivery
+
+Fork otravobv/wp-exercise, make your changes and create pull request to otravobv/wp-exercise
