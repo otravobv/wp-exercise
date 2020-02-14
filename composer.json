@@ -1,0 +1,68 @@
+{
+    "name": "otravo/wp-exercise",
+    "type": "project",
+    "license": "proprietary",
+    "keywords": [
+        "bedrock",
+        "composer",
+        "roots",
+        "wordpress",
+        "wp",
+        "wp-config"
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ],
+    "require": {
+        "php": "7.3.*",
+        "ext-mysqli": "*",
+        "ext-redis": "*",
+        "composer/installers": "^1.7",
+        "oscarotero/env": "^1.2.0",
+        "roots/wordpress": "5.2.3",
+        "roots/wp-config": "1.0.0",
+        "roots/wp-password-bcrypt": "1.0.0",
+        "vlucas/phpdotenv": "^3.4.0"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.4.2",
+        "roave/security-advisories": "dev-master"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "platform": {
+            "php": "7.3.14"
+        },
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "installer-paths": {
+            "web/app/mu-plugins/{$name}/": [
+                "type:wordpress-muplugin"
+            ],
+            "web/app/plugins/{$name}/": [
+                "type:wordpress-plugin"
+            ],
+            "web/app/themes/{$name}/": [
+                "type:wordpress-theme"
+            ]
+        },
+        "wordpress-install-dir": "web/wp"
+    },
+    "scripts": {
+        "test": [
+            "phpcs"
+        ]
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}

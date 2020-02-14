@@ -1,0 +1,1744 @@
+[
+    {
+        "code": "EWR",
+        "name": "Newark Liberty International",
+        "location": {
+            "cityCode": "NYC",
+            "countryCode": "US",
+            "continentCode": "NA",
+            "position": {
+                "latitude": 40.692501,
+                "longitude": -74.168701
+            }
+        }
+    },
+    {
+        "code": "JFK",
+        "name": "John F Kennedy International",
+        "location": {
+            "cityCode": "NYC",
+            "countryCode": "US",
+            "continentCode": "NA",
+            "position": {
+                "latitude": 40.639801,
+                "longitude": -73.778900
+            }
+        }
+    },
+    {
+        "code": "JRA",
+        "name": "West 30th St Heliport",
+        "location": {
+            "cityCode": "NYC",
+            "countryCode": "US",
+            "continentCode": "NA",
+            "position": {
+                "latitude": 40.639801,
+                "longitude": -73.778900
+            }
+        }
+    },
+    {
+        "code": "JRE",
+        "name": "East 60th St Hlpt",
+        "location": {
+            "cityCode": "NYC",
+            "countryCode": "US",
+            "continentCode": "NA",
+            "position": {
+                "latitude": 40.639801,
+                "longitude": -73.778900
+            }
+        }
+    },
+    {
+        "code": "LGA",
+        "name": "La Guardia",
+        "location": {
+            "cityCode": "NYC",
+            "countryCode": "US",
+            "continentCode": "NA",
+            "position": {
+                "latitude": 40.777199,
+                "longitude": -73.872597
+            }
+        }
+    },
+    {
+        "code": "NBP",
+        "name": "Battery Pk City N Cov",
+        "location": {
+            "cityCode": "NYC",
+            "countryCode": "US",
+            "continentCode": "NA",
+            "position": {
+                "latitude": 40.706100,
+                "longitude": -74.021698
+            }
+        }
+    },
+    {
+        "code": "ACE",
+        "name": "Lanzarote",
+        "location": {
+            "cityCode": "ACE",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 28.945499,
+                "longitude": -13.605200
+            }
+        }
+    },
+    {
+        "code": "AGP",
+        "name": "Malaga",
+        "location": {
+            "cityCode": "AGP",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 36.674900,
+                "longitude": -4.499110
+            }
+        }
+    },
+    {
+        "code": "ALC",
+        "name": "Alicante",
+        "location": {
+            "cityCode": "ALC",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 38.282200,
+                "longitude": -0.558156
+            }
+        }
+    },
+    {
+        "code": "BCN",
+        "name": "Airport El Prat",
+        "location": {
+            "cityCode": "BCN",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 41.297100,
+                "longitude": 2.078460
+            }
+        }
+    },
+    {
+        "code": "BIO",
+        "name": "Bilbao",
+        "location": {
+            "cityCode": "BIO",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 43.301102,
+                "longitude": -2.910610
+            }
+        }
+    },
+    {
+        "code": "BJZ",
+        "name": "Talaveral La Real",
+        "location": {
+            "cityCode": "BJZ",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 38.891300,
+                "longitude": -6.821330
+            }
+        }
+    },
+    {
+        "code": "CDZ",
+        "name": "Cadiz",
+        "location": {
+            "cityCode": "CDZ",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 0.000000,
+                "longitude": 0.000000
+            }
+        }
+    },
+    {
+        "code": "EAS",
+        "name": "San Sebastian",
+        "location": {
+            "cityCode": "EAS",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 43.356499,
+                "longitude": -1.790610
+            }
+        }
+    },
+    {
+        "code": "FUE",
+        "name": "Fuerteventura",
+        "location": {
+            "cityCode": "FUE",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 28.452700,
+                "longitude": -13.863800
+            }
+        }
+    },
+    {
+        "code": "GMZ",
+        "name": "La Gomera",
+        "location": {
+            "cityCode": "GMZ",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 28.029600,
+                "longitude": -17.214600
+            }
+        }
+    },
+    {
+        "code": "GRO",
+        "name": "Costa Brava",
+        "location": {
+            "cityCode": "GRO",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 41.901001,
+                "longitude": 2.760550
+            }
+        }
+    },
+    {
+        "code": "GRX",
+        "name": "Granada",
+        "location": {
+            "cityCode": "GRX",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 37.188702,
+                "longitude": -3.777360
+            }
+        }
+    },
+    {
+        "code": "IBZ",
+        "name": "Ibiza",
+        "location": {
+            "cityCode": "IBZ",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 38.872898,
+                "longitude": 1.373120
+            }
+        }
+    },
+    {
+        "code": "LCG",
+        "name": "La Coruna",
+        "location": {
+            "cityCode": "LCG",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 43.302101,
+                "longitude": -8.377260
+            }
+        }
+    },
+    {
+        "code": "LEI",
+        "name": "Almeria",
+        "location": {
+            "cityCode": "LEI",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 36.843899,
+                "longitude": -2.370100
+            }
+        }
+    },
+    {
+        "code": "LEN",
+        "name": "Leon",
+        "location": {
+            "cityCode": "LEN",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 42.589001,
+                "longitude": -5.655560
+            }
+        }
+    },
+    {
+        "code": "LPA",
+        "name": "Aeropuerto De Gran Canaria",
+        "location": {
+            "cityCode": "LPA",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 27.931900,
+                "longitude": -15.386600
+            }
+        }
+    },
+    {
+        "code": "MAD",
+        "name": "Barajas",
+        "location": {
+            "cityCode": "MAD",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 40.493599,
+                "longitude": -3.566760
+            }
+        }
+    },
+    {
+        "code": "MAH",
+        "name": "Aerop De Menorca",
+        "location": {
+            "cityCode": "MAH",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 39.862598,
+                "longitude": 4.218650
+            }
+        }
+    },
+    {
+        "code": "MLN",
+        "name": "Melilla",
+        "location": {
+            "cityCode": "MLN",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 35.279800,
+                "longitude": -2.956260
+            }
+        }
+    },
+    {
+        "code": "OVD",
+        "name": "Asturias",
+        "location": {
+            "cityCode": "OVD",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 43.563599,
+                "longitude": -6.034620
+            }
+        }
+    },
+    {
+        "code": "PMI",
+        "name": "Palma Mallorca",
+        "location": {
+            "cityCode": "PMI",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 39.551701,
+                "longitude": 2.738810
+            }
+        }
+    },
+    {
+        "code": "PNA",
+        "name": "Pamplona Noain",
+        "location": {
+            "cityCode": "PNA",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 42.770000,
+                "longitude": -1.646330
+            }
+        }
+    },
+    {
+        "code": "REU",
+        "name": "Reus",
+        "location": {
+            "cityCode": "REU",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 41.147400,
+                "longitude": 1.167170
+            }
+        }
+    },
+    {
+        "code": "RMU",
+        "name": "Murcia Corvera Airport",
+        "location": {
+            "cityCode": "RMU",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 37.804500,
+                "longitude": -1.131200
+            }
+        }
+    },
+    {
+        "code": "SCQ",
+        "name": "Santiago",
+        "location": {
+            "cityCode": "SCQ",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 42.896301,
+                "longitude": -8.415140
+            }
+        }
+    },
+    {
+        "code": "SDR",
+        "name": "Santander",
+        "location": {
+            "cityCode": "SDR",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 43.427101,
+                "longitude": -3.820010
+            }
+        }
+    },
+    {
+        "code": "SLM",
+        "name": "Matacan",
+        "location": {
+            "cityCode": "SLM",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 40.952099,
+                "longitude": -5.501990
+            }
+        }
+    },
+    {
+        "code": "SPC",
+        "name": "La Palma",
+        "location": {
+            "cityCode": "SPC",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 28.626499,
+                "longitude": -17.755600
+            }
+        }
+    },
+    {
+        "code": "SVQ",
+        "name": "San Pablo",
+        "location": {
+            "cityCode": "SVQ",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 37.417999,
+                "longitude": -5.893110
+            }
+        }
+    },
+    {
+        "code": "TFN",
+        "name": "Tenerife Norte Los Rodeos",
+        "location": {
+            "cityCode": "TCI",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 28.482700,
+                "longitude": -16.341499
+            }
+        }
+    },
+    {
+        "code": "TFS",
+        "name": "Reina Sofia",
+        "location": {
+            "cityCode": "TCI",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 28.044500,
+                "longitude": -16.572500
+            }
+        }
+    },
+    {
+        "code": "VDE",
+        "name": "Hierro",
+        "location": {
+            "cityCode": "VDE",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 27.814800,
+                "longitude": -17.887100
+            }
+        }
+    },
+    {
+        "code": "VGO",
+        "name": "Vigo",
+        "location": {
+            "cityCode": "VGO",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 42.231800,
+                "longitude": -8.626770
+            }
+        }
+    },
+    {
+        "code": "VIT",
+        "name": "Vitoria",
+        "location": {
+            "cityCode": "VIT",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 42.882801,
+                "longitude": -2.724470
+            }
+        }
+    },
+    {
+        "code": "VLC",
+        "name": "Valencia",
+        "location": {
+            "cityCode": "VLC",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 39.489300,
+                "longitude": -0.481625
+            }
+        }
+    },
+    {
+        "code": "VLL",
+        "name": "Valladolid",
+        "location": {
+            "cityCode": "VLL",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 41.706100,
+                "longitude": -4.851940
+            }
+        }
+    },
+    {
+        "code": "XRY",
+        "name": "La Parra",
+        "location": {
+            "cityCode": "XRY",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 36.744598,
+                "longitude": -6.060110
+            }
+        }
+    },
+    {
+        "code": "ZAZ",
+        "name": "Zaragoza",
+        "location": {
+            "cityCode": "ZAZ",
+            "countryCode": "ES",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 41.666199,
+                "longitude": -1.041550
+            }
+        }
+    },
+    {
+        "code": "KUN",
+        "name": "Kaunas",
+        "location": {
+            "cityCode": "KUN",
+            "countryCode": "LT",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 54.963902,
+                "longitude": 24.084801
+            }
+        }
+    },
+    {
+        "code": "PLQ",
+        "name": "Palanga International",
+        "location": {
+            "cityCode": "PLQ",
+            "countryCode": "LT",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 55.973202,
+                "longitude": 21.093901
+            }
+        }
+    },
+    {
+        "code": "VNO",
+        "name": "Vilnius",
+        "location": {
+            "cityCode": "VNO",
+            "countryCode": "LT",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 54.637100,
+                "longitude": 25.287800
+            }
+        }
+    },
+    {
+        "code": "RIX",
+        "name": "Riga",
+        "location": {
+            "cityCode": "RIX",
+            "countryCode": "LV",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 56.923599,
+                "longitude": 23.971100
+            }
+        }
+    },
+    {
+        "code": "EPU",
+        "name": "Parnu",
+        "location": {
+            "cityCode": "EPU",
+            "countryCode": "EE",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 0.000000,
+                "longitude": 0.000000
+            }
+        }
+    },
+    {
+        "code": "KDL",
+        "name": "Kardla",
+        "location": {
+            "cityCode": "KDL",
+            "countryCode": "EE",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 58.990799,
+                "longitude": 22.830700
+            }
+        }
+    },
+    {
+        "code": "TAY",
+        "name": "Tartu",
+        "location": {
+            "cityCode": "TAY",
+            "countryCode": "EE",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 58.307499,
+                "longitude": 26.690399
+            }
+        }
+    },
+    {
+        "code": "TLL",
+        "name": "Ulemiste",
+        "location": {
+            "cityCode": "TLL",
+            "countryCode": "EE",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 59.413300,
+                "longitude": 24.832800
+            }
+        }
+    },
+    {
+        "code": "URE",
+        "name": "Kuressaare",
+        "location": {
+            "cityCode": "URE",
+            "countryCode": "EE",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 58.229900,
+                "longitude": 22.509501
+            }
+        }
+    },
+    {
+        "code": "AMS",
+        "name": "Schiphol",
+        "location": {
+            "cityCode": "AMS",
+            "countryCode": "NL",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 52.308601,
+                "longitude": 4.763890
+            }
+        }
+    },
+    {
+        "code": "EIN",
+        "name": "Eindhoven",
+        "location": {
+            "cityCode": "EIN",
+            "countryCode": "NL",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.450100,
+                "longitude": 5.374530
+            }
+        }
+    },
+    {
+        "code": "GRQ",
+        "name": "Eelde",
+        "location": {
+            "cityCode": "GRQ",
+            "countryCode": "NL",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 53.119701,
+                "longitude": 6.579440
+            }
+        }
+    },
+    {
+        "code": "MST",
+        "name": "Maastricht Aachen",
+        "location": {
+            "cityCode": "MST",
+            "countryCode": "NL",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 50.911701,
+                "longitude": 5.770140
+            }
+        }
+    },
+    {
+        "code": "RTM",
+        "name": "Rotterdam",
+        "location": {
+            "cityCode": "RTM",
+            "countryCode": "NL",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.956902,
+                "longitude": 4.437220
+            }
+        }
+    },
+    {
+        "code": "WOE",
+        "name": "Woensdrecht",
+        "location": {
+            "cityCode": "WOE",
+            "countryCode": "NL",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.449699,
+                "longitude": 4.342380
+            }
+        }
+    },
+    {
+        "code": "ACI",
+        "name": "The Blaye",
+        "location": {
+            "cityCode": "ACI",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 49.706100,
+                "longitude": -2.214720
+            }
+        }
+    },
+    {
+        "code": "ADX",
+        "name": "Leuchars",
+        "location": {
+            "cityCode": "ADX",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 56.372898,
+                "longitude": -2.868440
+            }
+        }
+    },
+    {
+        "code": "BEB",
+        "name": "Benbecula",
+        "location": {
+            "cityCode": "BEB",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 57.481098,
+                "longitude": -7.362780
+            }
+        }
+    },
+    {
+        "code": "BHX",
+        "name": "Birmingham International",
+        "location": {
+            "cityCode": "BHX",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 52.453899,
+                "longitude": -1.748030
+            }
+        }
+    },
+    {
+        "code": "BLK",
+        "name": "Blackpool",
+        "location": {
+            "cityCode": "BLK",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 53.771702,
+                "longitude": -3.028610
+            }
+        }
+    },
+    {
+        "code": "BOH",
+        "name": "Bournemouth International",
+        "location": {
+            "cityCode": "BOH",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 50.779999,
+                "longitude": -1.842500
+            }
+        }
+    },
+    {
+        "code": "BQH",
+        "name": "London Biggin Hill",
+        "location": {
+            "cityCode": "LON",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.330799,
+                "longitude": 0.032500
+            }
+        }
+    },
+    {
+        "code": "BRR",
+        "name": "North Bay",
+        "location": {
+            "cityCode": "BRR",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 57.016998,
+                "longitude": -7.433000
+            }
+        }
+    },
+    {
+        "code": "BRS",
+        "name": "Bristol International",
+        "location": {
+            "cityCode": "BRS",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.382702,
+                "longitude": -2.719090
+            }
+        }
+    },
+    {
+        "code": "BSH",
+        "name": "Brighton",
+        "location": {
+            "cityCode": "BSH",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 50.835602,
+                "longitude": -0.297222
+            }
+        }
+    },
+    {
+        "code": "BWF",
+        "name": "Walney Island",
+        "location": {
+            "cityCode": "BWF",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 54.131199,
+                "longitude": -3.263670
+            }
+        }
+    },
+    {
+        "code": "BZZ",
+        "name": "Brize Norton Raf Station",
+        "location": {
+            "cityCode": "OXF",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.750000,
+                "longitude": -1.583620
+            }
+        }
+    },
+    {
+        "code": "CAL",
+        "name": "Machrihanish",
+        "location": {
+            "cityCode": "CAL",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 55.437199,
+                "longitude": -5.686390
+            }
+        }
+    },
+    {
+        "code": "CAX",
+        "name": "Carlisle",
+        "location": {
+            "cityCode": "CAX",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 54.937500,
+                "longitude": -2.809170
+            }
+        }
+    },
+    {
+        "code": "CBG",
+        "name": "Cambridge",
+        "location": {
+            "cityCode": "CBG",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 52.205002,
+                "longitude": 0.175000
+            }
+        }
+    },
+    {
+        "code": "CEG",
+        "name": "Chester",
+        "location": {
+            "cityCode": "CEG",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 53.178101,
+                "longitude": -2.977780
+            }
+        }
+    },
+    {
+        "code": "CVT",
+        "name": "Baginton",
+        "location": {
+            "cityCode": "CVT",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 52.369701,
+                "longitude": -1.479720
+            }
+        }
+    },
+    {
+        "code": "DOC",
+        "name": "Dornoch",
+        "location": {
+            "cityCode": "DOC",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 57.868999,
+                "longitude": -4.023000
+            }
+        }
+    },
+    {
+        "code": "DSA",
+        "name": "Finningley",
+        "location": {
+            "cityCode": "DSA",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 53.474701,
+                "longitude": -1.004440
+            }
+        }
+    },
+    {
+        "code": "EMA",
+        "name": "East Midlands",
+        "location": {
+            "cityCode": "NQT",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 52.831100,
+                "longitude": -1.328060
+            }
+        }
+    },
+    {
+        "code": "EOI",
+        "name": "Eday",
+        "location": {
+            "cityCode": "EOI",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 59.191399,
+                "longitude": -2.773890
+            }
+        }
+    },
+    {
+        "code": "EXT",
+        "name": "Exeter",
+        "location": {
+            "cityCode": "EXT",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 50.734402,
+                "longitude": -3.413890
+            }
+        }
+    },
+    {
+        "code": "FAB",
+        "name": "Farnborough",
+        "location": {
+            "cityCode": "FAB",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.275799,
+                "longitude": -0.776333
+            }
+        }
+    },
+    {
+        "code": "FIE",
+        "name": "Fair Isle",
+        "location": {
+            "cityCode": "FIE",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 59.535801,
+                "longitude": -1.628060
+            }
+        }
+    },
+    {
+        "code": "FOA",
+        "name": "Foula",
+        "location": {
+            "cityCode": "FOA",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 60.120998,
+                "longitude": -2.052000
+            }
+        }
+    },
+    {
+        "code": "FZO",
+        "name": "Filton",
+        "location": {
+            "cityCode": "FZO",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.519402,
+                "longitude": -2.590830
+            }
+        }
+    },
+    {
+        "code": "GCI",
+        "name": "Guernsey",
+        "location": {
+            "cityCode": "GCI",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 49.435001,
+                "longitude": -2.601970
+            }
+        }
+    },
+    {
+        "code": "GLO",
+        "name": "Staverton",
+        "location": {
+            "cityCode": "GLO",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.894199,
+                "longitude": -2.167220
+            }
+        }
+    },
+    {
+        "code": "GSY",
+        "name": "Binbrook",
+        "location": {
+            "cityCode": "GSY",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 53.446701,
+                "longitude": -0.210000
+            }
+        }
+    },
+    {
+        "code": "HRT",
+        "name": "Linton On Ouse",
+        "location": {
+            "cityCode": "HRT",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 54.048901,
+                "longitude": -1.252750
+            }
+        }
+    },
+    {
+        "code": "HUY",
+        "name": "Humberside",
+        "location": {
+            "cityCode": "HUY",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 53.574402,
+                "longitude": -0.350833
+            }
+        }
+    },
+    {
+        "code": "IOM",
+        "name": "Ronaldsway",
+        "location": {
+            "cityCode": "IOM",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 54.083302,
+                "longitude": -4.623890
+            }
+        }
+    },
+    {
+        "code": "ISC",
+        "name": "St Marys",
+        "location": {
+            "cityCode": "ISC",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 49.913300,
+                "longitude": -6.291670
+            }
+        }
+    },
+    {
+        "code": "JER",
+        "name": "States",
+        "location": {
+            "cityCode": "JER",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 49.207901,
+                "longitude": -2.195510
+            }
+        }
+    },
+    {
+        "code": "KNF",
+        "name": "Marham Raf",
+        "location": {
+            "cityCode": "KNF",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 52.657902,
+                "longitude": 0.543308
+            }
+        }
+    },
+    {
+        "code": "LBA",
+        "name": "Leeds Bradford",
+        "location": {
+            "cityCode": "LBA",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 53.865898,
+                "longitude": -1.660570
+            }
+        }
+    },
+    {
+        "code": "LCY",
+        "name": "London City",
+        "location": {
+            "cityCode": "LON",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.505299,
+                "longitude": 0.055278
+            }
+        }
+    },
+    {
+        "code": "LDY",
+        "name": "Eglinton",
+        "location": {
+            "cityCode": "LDY",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 55.042801,
+                "longitude": -7.161110
+            }
+        }
+    },
+    {
+        "code": "LEQ",
+        "name": "St Just",
+        "location": {
+            "cityCode": "LEQ",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 50.102798,
+                "longitude": -5.670560
+            }
+        }
+    },
+    {
+        "code": "LGW",
+        "name": "Gatwick",
+        "location": {
+            "cityCode": "LON",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.148102,
+                "longitude": -0.190278
+            }
+        }
+    },
+    {
+        "code": "LHR",
+        "name": "Heathrow",
+        "location": {
+            "cityCode": "LON",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.477501,
+                "longitude": -0.461389
+            }
+        }
+    },
+    {
+        "code": "LPL",
+        "name": "Liverpool",
+        "location": {
+            "cityCode": "LPL",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 53.333599,
+                "longitude": -2.849720
+            }
+        }
+    },
+    {
+        "code": "LTN",
+        "name": "Luton",
+        "location": {
+            "cityCode": "LON",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.874699,
+                "longitude": -0.368333
+            }
+        }
+    },
+    {
+        "code": "MAN",
+        "name": "Manchester International",
+        "location": {
+            "cityCode": "MAN",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 53.353699,
+                "longitude": -2.274950
+            }
+        }
+    },
+    {
+        "code": "MHZ",
+        "name": "Mildenhall",
+        "location": {
+            "cityCode": "MHZ",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 52.361900,
+                "longitude": 0.486406
+            }
+        }
+    },
+    {
+        "code": "MME",
+        "name": "Durham Tees Valley",
+        "location": {
+            "cityCode": "MME",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 54.509201,
+                "longitude": -1.429410
+            }
+        }
+    },
+    {
+        "code": "MSE",
+        "name": "Kent International",
+        "location": {
+            "cityCode": "MSE",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.342201,
+                "longitude": 1.346110
+            }
+        }
+    },
+    {
+        "code": "NCL",
+        "name": "Newcastle",
+        "location": {
+            "cityCode": "NCL",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 55.037498,
+                "longitude": -1.691670
+            }
+        }
+    },
+    {
+        "code": "NDY",
+        "name": "Sanday",
+        "location": {
+            "cityCode": "NDY",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 59.250301,
+                "longitude": -2.576670
+            }
+        }
+    },
+    {
+        "code": "NQT",
+        "name": "Nottingham",
+        "location": {
+            "cityCode": "NQT",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 52.919998,
+                "longitude": -1.079170
+            }
+        }
+    },
+    {
+        "code": "NQY",
+        "name": "Newquay Civil",
+        "location": {
+            "cityCode": "NQY",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 50.440800,
+                "longitude": -4.995280
+            }
+        }
+    },
+    {
+        "code": "NRL",
+        "name": "North Ronaldsay",
+        "location": {
+            "cityCode": "NRL",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 59.368301,
+                "longitude": -2.433330
+            }
+        }
+    },
+    {
+        "code": "NWI",
+        "name": "Norwich",
+        "location": {
+            "cityCode": "NWI",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 52.675800,
+                "longitude": 1.282780
+            }
+        }
+    },
+    {
+        "code": "OXF",
+        "name": "Kidlington",
+        "location": {
+            "cityCode": "OXF",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.836899,
+                "longitude": -1.320000
+            }
+        }
+    },
+    {
+        "code": "OXQ",
+        "name": "Railway Station",
+        "location": {
+            "cityCode": "OXF",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.836899,
+                "longitude": -1.320000
+            }
+        }
+    },
+    {
+        "code": "PLH",
+        "name": "Roborough",
+        "location": {
+            "cityCode": "PLH",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 50.422798,
+                "longitude": -4.105830
+            }
+        }
+    },
+    {
+        "code": "PME",
+        "name": "Portsmouth",
+        "location": {
+            "cityCode": "PME",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 50.833000,
+                "longitude": -1.050000
+            }
+        }
+    },
+    {
+        "code": "PPW",
+        "name": "Papa Westray",
+        "location": {
+            "cityCode": "PPW",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 59.351700,
+                "longitude": -2.900280
+            }
+        }
+    },
+    {
+        "code": "PSV",
+        "name": "Papa Stour",
+        "location": {
+            "cityCode": "PSV",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 60.321701,
+                "longitude": -1.693060
+            }
+        }
+    },
+    {
+        "code": "PZE",
+        "name": "Penzance",
+        "location": {
+            "cityCode": "PZE",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 50.127998,
+                "longitude": -5.518000
+            }
+        }
+    },
+    {
+        "code": "SEN",
+        "name": "Southend Municipal",
+        "location": {
+            "cityCode": "SEN",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.571400,
+                "longitude": 0.695556
+            }
+        }
+    },
+    {
+        "code": "SKL",
+        "name": "Broadford",
+        "location": {
+            "cityCode": "SKL",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 57.252998,
+                "longitude": -5.827000
+            }
+        }
+    },
+    {
+        "code": "SOU",
+        "name": "Southampton International",
+        "location": {
+            "cityCode": "SOU",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 50.950298,
+                "longitude": -1.356800
+            }
+        }
+    },
+    {
+        "code": "SOY",
+        "name": "Stronsay",
+        "location": {
+            "cityCode": "SOY",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 59.158100,
+                "longitude": -2.641390
+            }
+        }
+    },
+    {
+        "code": "STN",
+        "name": "Stansted",
+        "location": {
+            "cityCode": "LON",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.884998,
+                "longitude": 0.235000
+            }
+        }
+    },
+    {
+        "code": "SWS",
+        "name": "Fairwood Comm",
+        "location": {
+            "cityCode": "SWS",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.605301,
+                "longitude": -4.067830
+            }
+        }
+    },
+    {
+        "code": "SYY",
+        "name": "Stornoway",
+        "location": {
+            "cityCode": "SYY",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 58.215599,
+                "longitude": -6.331110
+            }
+        }
+    },
+    {
+        "code": "SZD",
+        "name": "Sheffield City",
+        "location": {
+            "cityCode": "SZD",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 53.394299,
+                "longitude": -1.388490
+            }
+        }
+    },
+    {
+        "code": "TRE",
+        "name": "Tiree",
+        "location": {
+            "cityCode": "TRE",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 56.499199,
+                "longitude": -6.869170
+            }
+        }
+    },
+    {
+        "code": "TSO",
+        "name": "Tresco",
+        "location": {
+            "cityCode": "ISC",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 49.945599,
+                "longitude": -6.331390
+            }
+        }
+    },
+    {
+        "code": "UNT",
+        "name": "Baltasound",
+        "location": {
+            "cityCode": "UNT",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 60.733002,
+                "longitude": -0.817000
+            }
+        }
+    },
+    {
+        "code": "WIC",
+        "name": "Wick",
+        "location": {
+            "cityCode": "WIC",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 58.458900,
+                "longitude": -3.093060
+            }
+        }
+    },
+    {
+        "code": "WRY",
+        "name": "Westray",
+        "location": {
+            "cityCode": "WRY",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 59.349998,
+                "longitude": -2.933000
+            }
+        }
+    },
+    {
+        "code": "YEO",
+        "name": "Yeovilton",
+        "location": {
+            "cityCode": "YEO",
+            "countryCode": "GB",
+            "continentCode": "EU",
+            "position": {
+                "latitude": 51.009399,
+                "longitude": -2.638820
+            }
+        }
+    }
+]
