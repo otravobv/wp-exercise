@@ -77,7 +77,7 @@ a modern WordPress stack that helps you get started with the best development to
         - add `127.0.0.1 otravo.exercise` to your local **hosts** file, like **/etc/hosts**,
         - execute `docker-compose up -d` in project root directory.
     * **Method 2:** set the document root on your webserver to Bedrock's `web` folder: `/path/to/site/web/` and restart the server.
-1. Access WordPress admin at `http://otravo.exercise/wp/wp-admin/` (depends on chosen `WP_HOME` value).
+1. Access WordPress admin at `http://otravo.exercise:3333/wp/wp-admin/` (depends on chosen `WP_HOME` value).
 1. Create user and install WordPress.
 
 
